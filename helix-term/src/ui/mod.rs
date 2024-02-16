@@ -20,7 +20,7 @@ pub use completion::{Completion, CompletionItem};
 pub use editor::EditorView;
 pub use markdown::Markdown;
 pub use menu::Menu;
-pub use picker::{Column as PickerColumn, DynamicPicker, FileLocation, Picker};
+pub use picker::{Column as PickerColumn, FileLocation, Picker};
 pub use popup::Popup;
 pub use prompt::{Prompt, PromptEvent};
 pub use spinner::{ProgressSpinners, Spinner};
